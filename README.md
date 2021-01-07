@@ -6,7 +6,7 @@
 See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
-1. **Due End of Day January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
+1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)

@@ -25,6 +25,7 @@ All materials will be provided online:
 - Zoom for lectures (stored on canvas)
   - You are responsible for obtaining the necessary equipment and connectivity to participate remotely, and to log on to each session at the appointed time. Zoom meeting links are accessible through Canvas by clicking on the “Zoom” link on the navigation menu
   - During zoom meetings, you are required to keep your video on. Most synchronous activities will involve lots of interaction and exchange. Seeing each other’s faces is important to establish meaningful two-way communication.
+- Office hours and discussion technologies will be coordinated with the Honors Micro class and are TBD.
 
 ## Grading
 This material is best learned by doing exercises.  When appropriate, I will review some of the problem set answers in class.
