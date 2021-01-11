@@ -32,7 +32,7 @@ This material is best learned by doing exercises.  When appropriate, I will revi
 - 3-5 problem sets: 30%
 - Midterm 1: 20%
 - Midterm 2: 20%
-- Final Assignment: 30%
+- Final Exam: 30%
 
 **Missed Exam Policy:** You are responsible for ensuring that you take these exams as scheduled; no make-up exams will be given.
 - Missing a midterm for ANY reason will result in its weight being automatically transferred to the final exam.
