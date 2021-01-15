@@ -12,9 +12,9 @@
  This is a course in the tools of modern macroeconomics.  The emphasis will be on theory to help tune your intuition, and provide different lenses to interpret the macro-economy.
 
 - **Instructor:** jesse.perla@ubc.ca
-  - **Office Hours:** TBD
+  - **Office Hours:** 4-5pm Fridays on Discord
 - **Teaching Assistant:** mahdi.ebk@gmail.com
-  - **Office Hours:** TBD
+  - **Office Hours:** 3-4:30pm Fridays on Discord
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
 - **Textbook:** None.  I will post my notes online (modifications of notes graciously provided by Thomas J. Sargent)
 
