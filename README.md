@@ -7,11 +7,52 @@ See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
+2. **February 12th** - Midterm #1
+3. **March 19th** - Midterm #2
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 2. **January 13th** - [Math Review](/lecture_notes/math_review.pdf)
-3. **January 15th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
+3. **January 15th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
+4. **January 18th** - Continue [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
+5. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+6. **January 22nd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+7. **January 25th** - 
+8. **January 27th** - 
+9. **January 29th** - 
+10. **February 1st** - 
+11. **February 3rd** - 
+12. **February 5th** - 
+13. **February 8th** - 
+14. **February 10th** - Midterm Review Session
+15. **February 12th** - **Midterm #1**
+16. **February 15th** - **BREAK**
+17. **February 17th** - **BREAK**
+18. **February 19th** - **BREAK**
+19. **February 22nd** - 
+20. **February 24th** - 
+21. **February 26th** - 
+22. **March 1st** - 
+23. **March 3rd** - 
+24. **March 5th** - 
+25. **March 8th** - 
+26. **March 10th** - 
+27. **March 12th** - 
+28. **March 15th** - 
+29. **March 17th** - 
+30. **March 19th** - **Midterm #2**
+31. **March 22nd** - 
+32. **March 24th** - 
+33. **March 26th** - 
+34. **March 29th** -
+35. **March 31st** - 
+36. **April 2nd** - 
+37. **April 5th** - 
+38. **April 7th** - 
+39. **April 9th** - 
+40. **April 12th** - 
+41. **April 14th** - 
+
 
 <!--
 5. **January 13th** -  [Math Review](/lecture_notes/math_review.pdf)
