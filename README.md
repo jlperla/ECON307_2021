@@ -19,13 +19,13 @@ See [here](syllabus.md) for more details
 5. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 22nd** - PS0 Review
 7. **January 25th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-8. **January 27th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-9. **January 29th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-10. **February 1st** - PS1 REview
-11. **February 3rd** - 
+8. **January 27th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+9. **January 29th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+10. **February 1st** - 
+11. **February 3rd** - PS1 Review
 12. **February 5th** - 
 13. **February 8th** - 
-14. **February 10th** - Midterm Review Session
+14. **February 10th** - 
 15. **February 12th** - **Midterm #1**
 16. **February 15th** - **BREAK**
 17. **February 17th** - **BREAK**
