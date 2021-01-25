@@ -7,8 +7,9 @@ See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
-2. **February 12th** - Midterm #1
-3. **March 19th** - Midterm #2
+2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **February 12th** - Midterm #1
+4. **March 19th** - Midterm #2
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -16,11 +17,11 @@ See [here](syllabus.md) for more details
 3. **January 15th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 4. **January 18th** - Continue [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 5. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-6. **January 22nd** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-7. **January 25th** - 
-8. **January 27th** - 
-9. **January 29th** - 
-10. **February 1st** - 
+6. **January 22nd** - PS0 Review
+7. **January 25th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+8. **January 27th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+9. **January 29th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+10. **February 1st** - PS1 REview
 11. **February 3rd** - 
 12. **February 5th** - 
 13. **February 8th** - 
