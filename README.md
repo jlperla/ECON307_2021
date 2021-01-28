@@ -8,7 +8,7 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **February 10th** - Midterm #1
+3. **February 11th** - Midterm #1
 4. **March 19th** - Midterm #2
 
 ## Lectures
@@ -25,8 +25,8 @@ See [here](syllabus.md) for more details
 11. **February 3rd** - PS1 Review
 12. **February 5th** -[Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 8th** - 
-14. **February 10th** - **Midterm #1**
-15. **February 12th** - 
+14. **February 10th** - 
+15. **February 12th** - **Midterm #1**
 16. **February 15th** - **BREAK**
 17. **February 17th** - **BREAK**
 18. **February 19th** - **BREAK**
