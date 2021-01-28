@@ -8,8 +8,8 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **February 11th** - Midterm #1
-4. **March 19th** - Midterm #2
+3. **February 12th** - Midterm #1
+4. **March 22nd** - Midterm #2
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -41,8 +41,8 @@ See [here](syllabus.md) for more details
 27. **March 12th** - 
 28. **March 15th** - 
 29. **March 17th** - 
-30. **March 19th** - **Midterm #2**
-31. **March 22nd** - 
+30. **March 19th** - 
+31. **March 22nd** - **Midterm #2**
 32. **March 24th** - 
 33. **March 26th** - 
 34. **March 29th** -
