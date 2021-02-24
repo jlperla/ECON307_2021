@@ -31,9 +31,9 @@ See [here](syllabus.md) for more details
 16. **February 15th** - **BREAK**
 17. **February 17th** - **BREAK**
 18. **February 19th** - **BREAK**
-19. **February 22nd** - 
-20. **February 24th** - 
-21. **February 26th** - 
+19. **February 22nd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+20. **February 24th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf) and start [Stochastic Permanent Income Model](/lecture_notes/permanent_income.pdf)
+21. **February 26th** - Midterm Review
 22. **March 1st** - 
 23. **March 3rd** - 
 24. **March 5th** - 
