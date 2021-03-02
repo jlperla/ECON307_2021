@@ -6,11 +6,13 @@
 See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
+
 1. **Due Midnight PST on January 20nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 29th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due at class time February 10th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **February 12th** - Midterm #1
-5. **March 19th** - Midterm #2
+5. **Due at class time March 10th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
+6. **March 19th** - Midterm #2
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -35,10 +37,10 @@ See [here](syllabus.md) for more details
 20. **February 24th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 21. **February 26th** - Midterm Solution Review
 22. **March 1st** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-23. **March 3rd** - 
-24. **March 5th** - 
-25. **March 8th** - 
-26. **March 10th** - 
+23. **March 3rd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
+24. **March 5th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+25. **March 8th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+26. **March 10th** - PS3 Review
 27. **March 12th** - 
 28. **March 15th** - 
 29. **March 17th** - 
