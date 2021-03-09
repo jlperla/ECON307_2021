@@ -12,7 +12,8 @@ See [here](syllabus.md) for more details
 3. **Due at class time February 10th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **February 12th** - Midterm #1
 5. **Due at class time March 10th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-6. **March 19th** - Midterm #2
+6. **Due at class time March 19th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+7. **March 22th** - Midterm #2
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -41,10 +42,10 @@ See [here](syllabus.md) for more details
 24. **March 5th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 25. **March 8th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 26. **March 10th** - PS3 Review
-27. **March 12th** - 
-28. **March 15th** - 
-29. **March 17th** - 
-30. **March 19th** - 
+27. **March 12th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and start [Search](/lecture_notes/search.pdf)
+28. **March 15th** - [Search](/lecture_notes/search.pdf)
+29. **March 17th** -  [Search](/lecture_notes/search.pdf)
+30. **March 19th** - PS4 Review
 31. **March 22nd** - **Midterm #2**
 32. **March 24th** - 
 33. **March 26th** - 
@@ -77,7 +78,7 @@ See [here](syllabus.md) for more details
 20. **February 17th/19th/21st** - SPRING BREAK
 21. **February 24th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 22. **February 26th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-23. **February 28th** -[Search](/lecture_notes/search.pdf)
+23. **February 28th** - [Search](/lecture_notes/search.pdf)
 24. **March 2nd** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 25. **March 4th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 26. **March 6th** -  [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
