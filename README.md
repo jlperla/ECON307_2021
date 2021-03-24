@@ -47,8 +47,8 @@ See [here](syllabus.md) for more details
 29. **March 17th** -  [Search](/lecture_notes/search.pdf)
 30. **March 19th** - PS4 Review
 31. **March 22nd** - **Midterm #2**
-32. **March 24th** - 
-33. **March 26th** - 
+32. **March 24th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+33. **March 26th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 34. **March 29th** -
 35. **March 31st** - 
 36. **April 2nd** - 
