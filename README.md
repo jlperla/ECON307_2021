@@ -14,6 +14,7 @@ See [here](syllabus.md) for more details
 5. **Due at class time March 10th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 6. **Due at class time March 19th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **March 22th** - Midterm #2
+8. **Due at class time April 12th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -49,14 +50,12 @@ See [here](syllabus.md) for more details
 31. **March 22nd** - **Midterm #2**
 32. **March 24th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 33. **March 26th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-34. **March 29th** -
-35. **March 31st** - 
-36. **April 2nd** - 
-37. **April 5th** - 
-38. **April 7th** - 
-39. **April 9th** - 
-40. **April 12th** - 
-41. **April 14th** - 
+34. **March 29th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+35. **March 31st** - Midterm Review
+38. **April 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+39. **April 9th** - [Interest Rates](/lecture_notes/interest_rates.pdf) and [Growth](/lecture_notes/growth.pdf)
+40. **April 12th** - [Growth](/lecture_notes/growth.pdf)
+41. **April 14th** - [Growth](/lecture_notes/growth.pdf) and maybe [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
 
 
 <!--
