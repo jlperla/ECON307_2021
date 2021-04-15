@@ -15,6 +15,7 @@ See [here](syllabus.md) for more details
 6. **Due at class time March 19th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **March 22th** - Midterm #2
 8. **Due at class time April 12th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+9. **Practice Problems** -  [Practice Problems for Final](/problem_sets/final_practice_problems.pdf)
 
 ## Lectures
 1. **January 11th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
